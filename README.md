@@ -1,2 +1,0 @@
-# MLBA
-MLBA Project
